@@ -1,6 +1,6 @@
 # BlogPessoal
 
-Oi Esse é meu blog, minha historia
+Oi Esse é meu blog, minha historia, vamos juntos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
